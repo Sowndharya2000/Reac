@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reac/static/css/main.56262997.css",
+    "main.js": "/Reac/static/js/main.565bfdbb.js",
+    "static/js/453.ed3810f9.chunk.js": "/Reac/static/js/453.ed3810f9.chunk.js",
+    "static/media/bala.jpg": "/Reac/static/media/bala.7844ccffeea868dab6c6.jpg",
+    "index.html": "/Reac/index.html",
+    "main.56262997.css.map": "/Reac/static/css/main.56262997.css.map",
+    "main.565bfdbb.js.map": "/Reac/static/js/main.565bfdbb.js.map",
+    "453.ed3810f9.chunk.js.map": "/Reac/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56262997.css",
+    "static/js/main.565bfdbb.js"
+  ]
+}
