@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Reac/static/css/main.56262997.css",
-    "main.js": "/Reac/static/js/main.565bfdbb.js",
-    "static/js/453.ed3810f9.chunk.js": "/Reac/static/js/453.ed3810f9.chunk.js",
-    "static/media/bala.jpg": "/Reac/static/media/bala.7844ccffeea868dab6c6.jpg",
-    "index.html": "/Reac/index.html",
-    "main.56262997.css.map": "/Reac/static/css/main.56262997.css.map",
-    "main.565bfdbb.js.map": "/Reac/static/js/main.565bfdbb.js.map",
-    "453.ed3810f9.chunk.js.map": "/Reac/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/java/static/css/main.fe6b5d28.css",
+    "main.js": "/java/static/js/main.eff3bf8f.js",
+    "static/js/453.ed3810f9.chunk.js": "/java/static/js/453.ed3810f9.chunk.js",
+    "static/media/bala.jpg": "/java/static/media/bala.7844ccffeea868dab6c6.jpg",
+    "index.html": "/java/index.html",
+    "main.fe6b5d28.css.map": "/java/static/css/main.fe6b5d28.css.map",
+    "main.eff3bf8f.js.map": "/java/static/js/main.eff3bf8f.js.map",
+    "453.ed3810f9.chunk.js.map": "/java/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56262997.css",
-    "static/js/main.565bfdbb.js"
+    "static/css/main.fe6b5d28.css",
+    "static/js/main.eff3bf8f.js"
   ]
 }
